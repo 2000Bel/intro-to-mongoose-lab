@@ -11,7 +11,8 @@
   "description": "",
   "dependencies": {
     "dotenv": "^16.4.7",
-    "mongoose": "^8.10.0",
+    "mangosta": "^1.0.1",
+    "mongoose": "^8.11.0",
     "prompt-sync": "^4.2.0"
   }
 }
